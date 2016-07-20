@@ -1,2 +1,2 @@
 # operaciones básicas
-programa que realiza sumas restas multiplicaciones y diviciones con números enteros
+programa que realiza sumas restas multiplicaciones y divisiones con números enteros
